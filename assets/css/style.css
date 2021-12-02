@@ -1089,18 +1089,20 @@ section {
 }
 
 .pricing .box {
-    padding: 40px;
-    margin-bottom: 30px;
+    padding: 10px;
+    margin-bottom: 5px;
     box-shadow: 0px 0px 30px rgba(73, 78, 92, 0.15);
     background: #fff;
     text-align: center;
     position: relative;
-    border: 1px solid #fdc134;
+    border: 3px solid #06435a;
+    max-width: 90%;
 }
 
 .pricing .box:hover {
     /* transform: scale(1.1);*/
-    transform: scale(1.1) skewY(-1deg);
+    /* transform: scale(1.1) skewY(-1deg); */
+    transform: scale(1.05);
     /* background-color: rgba(161, 238, 145, 0.7); */
     /* opacity: 0.01; */
     z-index: 10;
@@ -1129,6 +1131,14 @@ section {
 
 .pricing h4 {
     font-size: 46px;
+    color: #fdc134;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 25px;
+}
+
+.pricing h5 {
+    font-size: 26px;
     color: #fdc134;
     font-weight: 400;
     font-family: "Open Sans", sans-serif;
@@ -1203,6 +1213,24 @@ section {
     background: #fdcd5c;
 }
 
+.pricing .buy-now-btn {
+    /* background: #0a516b; */
+    background: rgb(33, 59, 83);
+    display: inline-block;
+    padding: 6px 30px;
+    border-radius: 20px;
+    color: #fff;
+    transition: none;
+    font-size: 11px;
+    font-weight: 400;
+    font-family: "Raleway", sans-serif;
+    transition: 0.3s;
+}
+
+.pricing .buy-now-btn:hover {
+    background: #05876b;
+}
+
 @media (max-width: 992px) {
     .pricing .box {
         max-width: 60%;
@@ -1225,7 +1253,7 @@ section {
 
 @media (max-width: 420px) {
     .pricing .box {
-        max-width: 100%;
+        max-width: 95%;
         margin: 0 auto 30px auto;
     }
     .home {

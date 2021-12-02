@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1637880127471,
+  "timestamp": 1638459460726,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,12 +13,12 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.819148444b722db5.js",
+        "/main.31da9745db066521.js",
         "/manifest.webmanifest",
         "/polyfills.122c201ee04b6258.js",
         "/runtime.848501a281bcf636.js",
         "/scripts.85ef66136270a67d.js",
-        "/styles.c169b023ae87ec8d.css"
+        "/styles.de2bb4877347aa2f.css"
       ],
       "patterns": []
     },
@@ -45,6 +45,7 @@
         "/assets/img/about.jpg",
         "/assets/img/as-word-strategy-consulting.jpg",
         "/assets/img/asCapture.PNG",
+        "/assets/img/ascorp-log.png",
         "/assets/img/asword-software-desiging.jpg",
         "/assets/img/asword-software-development - Copy.jpg",
         "/assets/img/asword-software-development.jpg",
@@ -182,7 +183,7 @@
   "dataGroups": [],
   "hashTable": {
     "/about.a4c550aae986dad1.jpg": "0737e91f3bf1886fe22b920f71ec8858ecc7dced",
-    "/assets/css/style.css": "044b1ee5f73163483865f14c5ba875a8321740d2",
+    "/assets/css/style.css": "10d8c0a4d8e97a01113a4c86597ac6461d98d490",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -196,6 +197,7 @@
     "/assets/img/about.jpg": "0737e91f3bf1886fe22b920f71ec8858ecc7dced",
     "/assets/img/as-word-strategy-consulting.jpg": "f2b598226bb99e60edba481c197d97149a391453",
     "/assets/img/asCapture.PNG": "c42973ec33d3d9a31ccdda5f5448ee82da50e40f",
+    "/assets/img/ascorp-log.png": "085ef9670f04ce281192bc4d8999b26edfe98e62",
     "/assets/img/asword-software-desiging.jpg": "1146547a7b967afed84465d346e5be67443ae5b0",
     "/assets/img/asword-software-development - Copy.jpg": "00b046ed8f0234db5d7d04910ac5bd9dc39e416d",
     "/assets/img/asword-software-development.jpg": "b9410c23bc3d993ee3df321dcc9815fe62fad85b",
@@ -325,15 +327,15 @@
     "/boxicons.55cab62738b3e3a4.ttf": "f06dd82c7de595ad4f4ee205e55b400cb6386452",
     "/boxicons.5814ebb1ecc521f6.woff2": "ff9bdd64fb52fae9229065bab30e97b0daadd974",
     "/boxicons.8b8c7986cf69ccd4.woff": "669b82d38ce449db1094e6c5c4fbba6a90e0284e",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/favicon.ico": "0b9b6d2361511110120bd7e6b32a97f73d1523e9",
     "/footer-bg.4e06166e1fc46296.jpg": "e0e1c25a41b6d8473ace81ef89e14295b2159ecd",
-    "/index.html": "c352a16007368d0090a84b9f273aeacf177c5a70",
-    "/main.819148444b722db5.js": "b33971957a435ffeed2c8834812af857a74fc98c",
+    "/index.html": "1d7c6fb0280571431433c70ef44c2d6462ef36af",
+    "/main.31da9745db066521.js": "b2b65d038f4974af15971c9a18bc8d5f7624f386",
     "/manifest.webmanifest": "0ad609ad805642ca7dffbb075dcfefb1610af907",
     "/polyfills.122c201ee04b6258.js": "2d96da3723ea35aba906c1e838a9d3f55f27e4f1",
     "/runtime.848501a281bcf636.js": "646177917f909f40afcb6050bcdb3ea35ecfca9c",
     "/scripts.85ef66136270a67d.js": "602498dac33168708aec7633b3aaaafee589ae73",
-    "/styles.c169b023ae87ec8d.css": "dec0b9bdca193b1cc1d7d2775e8107d32b6335d7"
+    "/styles.de2bb4877347aa2f.css": "a81cbfea68f68511b1f2c39643abdc498662583b"
   },
   "navigationUrls": [
     {
